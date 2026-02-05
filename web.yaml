@@ -1,0 +1,85 @@
+settings:
+  title: "个人导航页"
+  description: "我的常用网站集合"
+  author: "xiaowang"
+
+categories:
+  - id: pws
+    name: "个人网站"
+    icon: "👤"
+  - id: repo
+    name: "仓库"
+    icon: "📁"
+  - id: search
+    name: "搜索引擎"
+    description: "常用搜索引擎"
+    icon: "🔍"
+  - id: dev
+    name: "开发工具"
+    description: "开发相关网站"
+    icon: "💻"
+  - id: media
+    name: "影音娱乐"
+    description: "视频音乐网站"
+    icon: "🎬"
+  - id: social
+    name: "社交网络"
+    description: "社交平台"
+    icon: "👥"
+
+websites:
+  - name: "Blog"
+    url: "https://wwr650.github.io/blog/"
+    category: pws
+    icon: "https://banner2.cleanpng.com/lnd/20240626/poc/a65gendl2.webp"
+    description: "个人博客"
+  - name: "Running page"
+    url:  "https://wwr650.github.io/running_page/"
+    category: pws
+    icon: "https://pub-21bfc399998f49b3be629ce080154177.r2.dev/running-page.png"
+    description: "跑步记录"
+  - name: "Running plan"
+    url:  "https://wwr650.github.io/running-plan/"
+    category: pws
+    icon: "https://pub-21bfc399998f49b3be629ce080154177.r2.dev/running-plan.png"
+    description: "跑步计划"
+  - name: "mc-pe version launcher zhCN"
+    url:  "https://github.com/wwr650/mc-w10-version-launcher-tr.zhCN/tree/translation-work"
+    category: repo
+    icon: "https://pub-21bfc399998f49b3be629ce080154177.r2.dev/github.ico"
+    description: "青果工具仓库"
+  - name: "wuhu Tool"
+    url:  "https://gitee.com/WWR650/wuhu-tool"
+    category: repo
+    icon: "https://gitee.com/favicon.ico"
+    description: "校园网工具仓库"
+  - name: "Kingo Tool"
+    url:  "https://gitee.com/WWR650/ZZIFE_Kingo_tool"
+    category: repo
+    icon: "https://gitee.com/favicon.ico"
+    description: "青果工具仓库"
+  - name: "GitHub"
+    url: "https://github.com"
+    icon: "https://pub-21bfc399998f49b3be629ce080154177.r2.dev/github.ico"
+    category: dev
+    description: "代码托管平台"
+  - name: "Bing"
+    url: "https://bing.com"
+    icon: "https://www.bing.com/favicon.ico"
+    category: search
+    description: "搜索引擎"
+  - name: "哔哩哔哩"
+    url: "https://www.bilibili.com/"
+    icon: "https://www.bilibili.com/favicon.ico"
+    category: media
+    description: "视频分享平台"
+  - name: "Gitee"
+    url: "https://gitee.com/"
+    icon: "https://gitee.com/favicon.ico"
+    category: dev
+    description: "代码托管平台"
+  - name: "Stack Overflow"
+    url: "https://stackoverflow.com"
+    icon: "https://stackoverflow.com/favicon.ico"
+    category: dev
+    description: "开发者问答社区"
