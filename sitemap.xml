@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd"
+              xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <!-- 博客站点地图 -->
+    <sitemap>
+        <loc>https://wwr650.github.io/blog/sitemap.xml</loc>
+        <lastmod>2026-02-13T00:00:00+08:00</lastmod>
+    </sitemap>
+    
+    <!-- 跑步页面站点地图（待创建） -->
+    <sitemap>
+        <loc>https://wwr650.github.io/running_page/sitemap.xml</loc>
+        <lastmod>2026-02-13T00:00:00+08:00</lastmod>
+    </sitemap>
+    
+    <!-- 跑步计划站点地图（待创建） -->
+    <sitemap>
+        <loc>https://wwr650.github.io/running-plan/sitemap.xml</loc>
+        <lastmod>2026-02-13T00:00:00+08:00</lastmod>
+    </sitemap>
+    
+</sitemapindex>
