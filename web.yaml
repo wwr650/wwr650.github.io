@@ -33,6 +33,11 @@ websites:
     category: pws
     icon: "https://banner2.cleanpng.com/lnd/20240626/poc/a65gendl2.webp"
     description: "个人博客"
+  - name: "unlock-music"
+    url: "https://wwr650.github.io/um-react/"
+    category: pws
+    icon: "https://raw.githubusercontent.com/wwr650/um-react/refs/heads/main/public/favicon.ico"
+    description: "解锁音乐"
   - name: "Running page"
     url:  "https://wwr650.github.io/running_page/"
     category: pws
