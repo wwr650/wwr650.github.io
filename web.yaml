@@ -48,11 +48,16 @@ websites:
     category: pws
     icon: "https://pub-21bfc399998f49b3be629ce080154177.r2.dev/running-plan.png"
     description: "跑步计划"
+  - name: "Fund Calculator"
+    url:  "https://wwr650.github.io/fund-calculator/"
+    category: pws
+    icon: "https://pub-21bfc399998f49b3be629ce080154177.r2.dev/fund-calculator.png"
+    description: "基金计算器"
   - name: "mc-pe version launcher zhCN"
     url:  "https://github.com/wwr650/mc-w10-version-launcher-tr.zhCN/tree/translation-work"
     category: repo
     icon: "https://pub-21bfc399998f49b3be629ce080154177.r2.dev/github.ico"
-    description: "青果工具仓库"
+    description: "MC-PE版本启动器中文翻译仓库"
   - name: "wuhu Tool"
     url:  "https://gitee.com/WWR650/wuhu-tool"
     category: repo
