@@ -49,7 +49,7 @@ websites:
     icon: "https://pub-21bfc399998f49b3be629ce080154177.r2.dev/running-plan.png"
     description: "跑步计划"
   - name: "Fund Calculator"
-    url:  "https://wwr650.github.io/fund-calculator/"
+    url:  "https://wwr650.github.io/Fund-Calculator/"
     category: pws
     icon: "https://pub-21bfc399998f49b3be629ce080154177.r2.dev/fund-calculator.png"
     description: "基金计算器"
